@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sgthirdapp/static/css/main.ebe4731e.chunk.css",
+    "main.js": "/sgthirdapp/static/js/main.adab8289.chunk.js",
+    "main.js.map": "/sgthirdapp/static/js/main.adab8289.chunk.js.map",
+    "runtime-main.js": "/sgthirdapp/static/js/runtime-main.87bfb62b.js",
+    "runtime-main.js.map": "/sgthirdapp/static/js/runtime-main.87bfb62b.js.map",
+    "static/js/2.961300c3.chunk.js": "/sgthirdapp/static/js/2.961300c3.chunk.js",
+    "static/js/2.961300c3.chunk.js.map": "/sgthirdapp/static/js/2.961300c3.chunk.js.map",
+    "index.html": "/sgthirdapp/index.html",
+    "static/css/main.ebe4731e.chunk.css.map": "/sgthirdapp/static/css/main.ebe4731e.chunk.css.map",
+    "static/js/2.961300c3.chunk.js.LICENSE.txt": "/sgthirdapp/static/js/2.961300c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87bfb62b.js",
+    "static/js/2.961300c3.chunk.js",
+    "static/css/main.ebe4731e.chunk.css",
+    "static/js/main.adab8289.chunk.js"
+  ]
+}
